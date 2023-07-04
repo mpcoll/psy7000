@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:33:42
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 14:17:12
+# @Last Modified time: 2023-07-04 14:42:52
 # Table of Contents
 #
 # Myst will respect:
@@ -21,10 +21,10 @@
 
 format: jb-book
 root: intro
-chapters:
-  - file: lorenz
-  - file: PSY_7000_cours1
-  - file: markdown-notebooks
-  - file: interactive-articles
+- file: lorenz
+- file: PSY_7000_cours1
+- file: markdown-notebooks
+- file: interactive-articles
+- file: test.md
 
 
