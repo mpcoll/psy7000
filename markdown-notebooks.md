@@ -52,4 +52,3 @@ If you have a markdown file and you'd like to quickly add YAML metadata to it, s
 ```
 jupyter-book myst init path/to/markdownfile.md
 ```
-
