@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:34:35
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 13:35:26
+# @Last Modified time: 2023-07-04 14:06:27
 version: 1
 project:
   title: psy7000
@@ -14,7 +14,7 @@ project:
     lite: true
 site:
   template: book-theme
-  title: MyST Lite Examples
+  title: PSY-7000
   # logo:
   nav: []
   actions:

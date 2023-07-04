@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:33:42
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 13:58:41
+# @Last Modified time: 2023-07-04 14:06:10
 # Table of Contents
 #
 # Myst will respect:
@@ -22,8 +22,8 @@
 format: jb-book
 root: intro
 chapters:
-  - file: markdown
+  - file: lorenz
   - file: markdown-notebooks
   - file: interactive-articles
-  - file: lorenz
+
 
