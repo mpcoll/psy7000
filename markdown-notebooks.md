@@ -1,12 +1,9 @@
 ---
 jupytext:
-  cell_metadata_filter: -all
   formats: md:myst
   text_representation:
     extension: .md
     format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
 kernelspec:
   display_name: Python 3
   language: python
@@ -24,7 +21,9 @@ This page shows off a notebook written in MyST Markdown.
 With MyST Markdown, you can define code cells with a directive like so:
 
 ```{code-cell} ipython3
-:tags: [hide-input]
+---
+tags: [hide-input]
+---
 print(2 + 2)
 ```
 
@@ -34,6 +33,13 @@ in-line with the rest of your content.
 
 ```{seealso}
 Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
+```
+
+```{code-cell} ipython3
+---
+tags: [hide-output]
+---
+print(2 + 2)
 ```
 
 ## Create a notebook with MyST Markdown
