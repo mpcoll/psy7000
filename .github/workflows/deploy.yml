@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:15:31
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 13:15:37
+# @Last Modified time: 2023-07-04 17:39:37
 name: MyST GitHub Pages Deploy
 on:
   push:
@@ -34,7 +34,7 @@ jobs:
         with:
           node-version: 18.x
       - name: Install MyST Markdown
-        run: npm install -g mystmd
+        run: npm install -g mystmd@1.1.0
       - name: Build HTML Assets
         run: myst build --html
       - name: Upload artifact
