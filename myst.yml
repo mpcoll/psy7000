@@ -1,13 +1,13 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:34:35
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 14:59:45
+# @Last Modified time: 2023-07-04 15:08:44
 version: 1
 project:
-  title: psy7000
+  title: PSY-7000
   description: test-mpcoll
   keywords: []
-  authors: []
+  authors: ['MP Coll']
   # github:
   # bibliography: []
   thebe:
@@ -15,7 +15,7 @@ project:
 site:
   template: book-theme
   title: PSY-7000
-  logo: logo
+  logo: logo.png
   nav: []
   actions:
     - title: Learn More
