@@ -6,7 +6,13 @@ In 1963, [Edward Lorenz](wiki:Edward_Norton_Lorenz), with the help of [](wiki:El
 
 
 
-:::{figure} #lorenz
+:::{figure} #c1f1
 The Lorenz Attractor using `ipywidgets`.
 :::
 
+
+Test figure 2
+
+:::{figure} #c1f2
+The Lorenz Attractor using `ipywidgets`.
+:::
