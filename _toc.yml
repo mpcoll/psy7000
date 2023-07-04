@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:33:42
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 15:01:49
+# @Last Modified time: 2023-07-04 16:45:48
 # Table of Contents
 #
 # Myst will respect:
@@ -26,6 +26,6 @@ chapters:
   - file: PSY_7000_cours1
   - file: markdown-notebooks
   - file: interactive-articles
-  - file: test.md
+  - file: test2
 
 
