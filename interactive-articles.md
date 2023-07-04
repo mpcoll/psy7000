@@ -7,7 +7,6 @@ In 1963, [Edward Lorenz](wiki:Edward_Norton_Lorenz), with the help of [](wiki:El
 
 
 :::{figure} #c1test
-The Lorenz Attractor using `ipywidgets`.
 :::
 
 
