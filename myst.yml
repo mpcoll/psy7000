@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:34:35
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 15:09:51
+# @Last Modified time: 2023-07-04 15:40:07
 version: 1
 project:
   title: PSY-7000
@@ -13,7 +13,7 @@ project:
   thebe:
     lite: true
 site:
-  template: book-theme
+  template: article-theme
   title: PSY-7000
   logo: logo.png
   nav: []
