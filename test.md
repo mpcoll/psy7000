@@ -1,4 +1,4 @@
-# Cours 1 - Introduction et fondements de l'expérience
+# TEST
 Créé par Michel-Pierre Coll - 2022, michel-pierre.coll@psy.ulaval.ca
 
 
