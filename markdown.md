@@ -46,14 +46,7 @@ render properly.
 For example, if the references for your book are stored in `references.bib`,
 then the bibliography is inserted with:
 
-```{bibliography}
-```
-
-
-
-
-```{bibliography}
-```
+test here
 
 
 :::{figure} #lorenz The Lorenz Attractor using ipywidgets. :::
