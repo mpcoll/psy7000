@@ -1,0 +1,6 @@
+# Build book
+jupyter-book build psy7000
+
+# Push book
+cd psy7000
+ghp-import -n -p -f _build/html
