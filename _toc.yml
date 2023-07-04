@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:33:42
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 13:37:53
+# @Last Modified time: 2023-07-04 13:58:41
 # Table of Contents
 #
 # Myst will respect:
@@ -25,3 +25,5 @@ chapters:
   - file: markdown
   - file: markdown-notebooks
   - file: interactive-articles
+  - file: lorenz
+
