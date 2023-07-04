@@ -20,7 +20,7 @@ This page shows off a notebook written in MyST Markdown.
 
 With MyST Markdown, you can define code cells with a directive like so:
 
-```{code-cell} ipython3
+```{code-cell}
 ---
 tags: [hide-input]
 ---
