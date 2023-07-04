@@ -15,7 +15,7 @@ Moreau, D. (2015). When seeing is learning: dynamic and interactive visualizatio
 
 
 ```{code-cell} ipython3
-:tags: [hide-input]
+:tags: hide-input
 %pip install ipywidgets
 %pip install seaborn
 

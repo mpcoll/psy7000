@@ -1,7 +1,7 @@
 # @Author: Your name
 # @Date:   2023-07-04 13:34:35
 # @Last Modified by:   Your name
-# @Last Modified time: 2023-07-04 15:42:13
+# @Last Modified time: 2023-07-04 16:57:16
 version: 1
 project:
   title: PSY-7000
@@ -15,7 +15,7 @@ project:
 site:
   template: book-theme
   title: PSY-7000
-  logo: logo.png
+  logo: logo.jpg
   nav: []
   actions:
     - title: MonPortail
