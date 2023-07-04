@@ -131,7 +131,7 @@
     "\n",
     "def normal_dist_sample(mu=170, sigma=20, n=20, nouveau=0):\n",
     "    groupe1 = np.random.normal(loc=mu, scale=sigma, size=n)\n",
-    "    fig, axes= plt.subplots(1, 2, figsize=(10, 6))\n",
+    "    fig, axes= plt.subplots(1, 2, figsize=(20, 6))\n",
     "\n",
     "    x = np.linspace(mu - 3*sigma, mu + 3*sigma, 1000)\n",
     "    y1 = [stats.norm.pdf(x, mu, sigma)[np.argmin(np.abs(x - v))] for v in groupe1]\n",
